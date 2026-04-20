@@ -15,7 +15,7 @@
 
 ## 🎯 About the lab
 
-> The **ELTE Cybersecurity Lab**, part of the **Department of Computer Algebra**, studies how complex digital systems fail under attack — and how they can be made more secure in practice.
+> The **ELTE Cybersecurity Lab**, part of the **Department of Computer Algebra**, studies how complex digital systems fail under attack , and how they can be made more secure in practice.
 
 Our work spans modern machine learning, cloud and identity infrastructures, blockchain ecosystems, applied cryptography, and next-generation mobile networks. Across these areas, our research combines **theoretical foundations with practical experimentation** — attack analysis, protocol design, system implementation, and security evaluation. We believe in open-source development and sharing with the broader community whenever possible.
 
