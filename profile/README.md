@@ -165,7 +165,7 @@ Privacy-preserving federated learning with **secure aggregation**, gradient defe
 <div align="center">
   <sub>
     <br/>
-    <a href="https://elte-cybersec.github.io/portal/">Explore all projects on the website →</a>
+    <a href="https://elte-cybersec.github.io/portal/#projects">Explore all projects on the website →</a>
     <br/><br/>
     <a href="https://github.com/elte-cybersec?tab=repositories">Browse repositories on GitHub →</a>
     <br/>
@@ -234,7 +234,7 @@ Assistant Professor at ELTE, Department of Computer Algebra. Research focuses on
 **Dr. István András Seres** — *Assistant Professor*
 Researcher at ELTE specializing in cryptography, privacy-preserving systems, and blockchain security. Previously a researcher at a16z crypto and IMDEA Software Institute.
 
-<div align="right"><sub><a href="https://elte-cybersec.github.io/portal/">See the full team on the website →</a></sub></div>
+<div align="right"><sub><a href="https://elte-cybersec.github.io/portal/#team">See the full team on the website →</a></sub></div>
 
 ---
 
