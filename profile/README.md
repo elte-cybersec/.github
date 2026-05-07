@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:164e63,50:0891b2,100:72e3e8&height=210&section=header&text=ELTE%20Cybersecurity%20Lab&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Understanding%20how%20systems%20fall%20under%20attack%20%E2%80%94%20and%20how%20they%20can%20be%20made%20more%20secure%20in%20practice&descSize=13&descAlignY=60&animation=fadeIn" width="100%" alt="ELTE Cybersecurity Lab"/>
 
 <p>
-  <a href="https://elte-cybersec.github.io/portal/"><img alt="Website" src="https://img.shields.io/badge/🌐_Website-elte--cybersec.github.io-0891b2?style=for-the-badge&labelColor=164e63"></a>
+  <a href="https://elte-cybersec.github.io/"><img alt="Website" src="https://img.shields.io/badge/🌐_Website-elte--cybersec.github.io-0891b2?style=for-the-badge&labelColor=164e63"></a>
   <img alt="Location" src="https://img.shields.io/badge/📍_Budapest-Hungary-1e40af?style=for-the-badge&labelColor=1e3a8a">
 </p>
 
@@ -19,7 +19,7 @@
 
 Our work spans modern machine learning, cloud and identity infrastructures, blockchain ecosystems, applied cryptography, and next-generation mobile networks. Across these areas, our research combines **theoretical foundations with practical experimentation** — attack analysis, protocol design, system implementation, and security evaluation. We believe in open-source development and sharing with the broader community whenever possible.
 
-<div align="right"><sub><a href="https://elte-cybersec.github.io/portal/">Visit the full website →</a></sub></div>
+<div align="right"><sub><a href="https://elte-cybersec.github.io/">Visit the full website →</a></sub></div>
 
 ---
 
@@ -165,7 +165,7 @@ Privacy-preserving federated learning with **secure aggregation**, gradient defe
 <div align="center">
   <sub>
     <br/>
-    <a href="https://elte-cybersec.github.io/portal/#projects">Explore all projects on the website →</a>
+    <a href="https://elte-cybersec.github.io/#projects">Explore all projects on the website →</a>
     <br/><br/>
     <a href="https://github.com/elte-cybersec?tab=repositories">Browse repositories on GitHub →</a>
     <br/>
@@ -234,7 +234,7 @@ Assistant Professor at ELTE, Department of Computer Algebra. Research focuses on
 **Dr. István András Seres** — *Assistant Professor*
 Researcher at ELTE specializing in cryptography, privacy-preserving systems, and blockchain security. Previously a researcher at a16z crypto and IMDEA Software Institute.
 
-<div align="right"><sub><a href="https://elte-cybersec.github.io/portal/#team">See the full team on the website →</a></sub></div>
+<div align="right"><sub><a href="https://elte-cybersec.github.io/#team">See the full team on the website →</a></sub></div>
 
 ---
 
@@ -273,7 +273,7 @@ Looking for applied cybersecurity research partnerships? Contact us through the 
 <div align="center">
 
 <p>
-  <a href="https://elte-cybersec.github.io/portal/"><img alt="Visit Website" src="https://img.shields.io/badge/🌐_Visit_Website-dc2626?style=for-the-badge&labelColor=7f1d1d"></a>
+  <a href="https://elte-cybersec.github.io/"><img alt="Visit Website" src="https://img.shields.io/badge/🌐_Visit_Website-dc2626?style=for-the-badge&labelColor=7f1d1d"></a>
   <a href="https://www.inf.elte.hu/en"><img alt="Faculty" src="https://img.shields.io/badge/🏛️_ELTE_Faculty_of_Informatics-1e3a8a?style=for-the-badge&labelColor=172554"></a>
 </p>
 
