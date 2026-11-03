@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:164e63,50:0891b2,100:72e3e8&height=210&section=header&text=ELTE%20Cybersecurity%20Lab&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Understanding%20how%20systems%20fall%20under%20attack%20%E2%80%94%20and%20how%20they%20can%20be%20made%20more%20secure%20in%20practice&descSize=13&descAlignY=60&animation=fadeIn" width="100%" alt="ELTE Cybersecurity Lab"/>
 
 <p>
-  <a href="https://elte-cybersec.github.io/"><img alt="Website" src="https://img.shields.io/badge/🌐_Website-elte--cybersec.github.io-0891b2?style=for-the-badge&labelColor=164e63"></a>
+  <a href="https://cyberseclab.elte.hu/"><img alt="Website" src="https://img.shields.io/badge/🌐_Website-elte--cybersec.github.io-0891b2?style=for-the-badge&labelColor=164e63"></a>
   <img alt="Location" src="https://img.shields.io/badge/📍_Budapest-Hungary-1e40af?style=for-the-badge&labelColor=1e3a8a">
 </p>
 
