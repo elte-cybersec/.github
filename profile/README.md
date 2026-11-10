@@ -19,7 +19,7 @@
 
 Our work spans modern machine learning, cloud and identity infrastructures, blockchain ecosystems, applied cryptography, and next-generation mobile networks. Across these areas, our research combines **theoretical foundations with practical experimentation** — attack analysis, protocol design, system implementation, and security evaluation. We believe in open-source development and sharing with the broader community whenever possible.
 
-<div align="right"><sub><a href="https://elte-cybersec.github.io/">Visit the full website →</a></sub></div>
+<div align="right"><sub><a href="https:/cyberseclab.elte.hu/">Visit the full website →</a></sub></div>
 
 ---
 
@@ -165,7 +165,7 @@ Privacy-preserving federated learning with **secure aggregation**, gradient defe
 <div align="center">
   <sub>
     <br/>
-    <a href="https://elte-cybersec.github.io/#projects">Explore all projects on the website →</a>
+    <a href="https://cyberseclab.elte.hu">Explore all projects on the website →</a>
     <br/><br/>
     <a href="https://github.com/elte-cybersec?tab=repositories">Browse repositories on GitHub →</a>
     <br/>
@@ -234,7 +234,7 @@ Assistant Professor at ELTE, Department of Computer Algebra. Research focuses on
 **Dr. István András Seres** — *Assistant Professor*
 Researcher at ELTE specializing in cryptography, privacy-preserving systems, and blockchain security. Previously a researcher at a16z crypto and IMDEA Software Institute.
 
-<div align="right"><sub><a href="https://elte-cybersec.github.io/#team">See the full team on the website →</a></sub></div>
+<div align="right"><sub><a href="https://cyberseclab.elte.hu/">See the full team on the website →</a></sub></div>
 
 ---
 
@@ -273,7 +273,7 @@ Looking for applied cybersecurity research partnerships? Contact us through the 
 <div align="center">
 
 <p>
-  <a href="https://elte-cybersec.github.io/"><img alt="Visit Website" src="https://img.shields.io/badge/🌐_Visit_Website-dc2626?style=for-the-badge&labelColor=7f1d1d"></a>
+  <a href="https://cyberseclab.elte.hu"><img alt="Visit Website" src="https://img.shields.io/badge/🌐_Visit_Website-dc2626?style=for-the-badge&labelColor=7f1d1d"></a>
   <a href="https://www.inf.elte.hu/en"><img alt="Faculty" src="https://img.shields.io/badge/🏛️_ELTE_Faculty_of_Informatics-1e3a8a?style=for-the-badge&labelColor=172554"></a>
 </p>
 
