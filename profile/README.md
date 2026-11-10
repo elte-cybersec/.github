@@ -222,7 +222,7 @@ Supervisor of the ELTE Cybersecurity Lab. Specializes in applied cryptography, A
 
 ### Scientific Team
 
-**Dr. Péter Ligeti** — *Associate Professor & Head of Department*
+**Dr. Péter Ligeti** — *Professor & Head of Department*
 Head of the Department of Computer Algebra at ELTE. Research covers combinatorial optimization, cryptography, and secret sharing schemes.
 
 **Dr. Attila Kovács** — *Professor*
@@ -231,7 +231,7 @@ Full Professor at ELTE, Department of Computer Algebra. Research focuses on algo
 **Dr. Máté Gyarmati** — *Assistant Professor*
 Assistant Professor at ELTE, Department of Computer Algebra. Research focuses on combinatorics and secret sharing, including graph-based secret sharing schemes.
 
-**Dr. István András Seres** — *Assistant Professor*
+**Dr. István András Seres** — *Associate Professor*
 Researcher at ELTE specializing in cryptography, privacy-preserving systems, and blockchain security. Previously a researcher at a16z crypto and IMDEA Software Institute.
 
 <div align="right"><sub><a href="https://cyberseclab.elte.hu/">See the full team on the website →</a></sub></div>
